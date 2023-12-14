@@ -31,6 +31,13 @@ USB Camera (Python):
 * Record videos with a specified length and save them to a specified location.
 * Detect motion and provide console alerts.
 
+### Sound card
+Sound card (Python):
+* Read and play WAV audio files using the Wave and Sounddevice libraries.
+* Record audio through a microphone and save it as a WAV file with PyAudio.
+* Display WAV file headers, providing details like format, channels, frame rate, and compression type.
+* Utilize Pyglet for advanced audio playback options, supporting various audio drivers.
+  
 ## How to use:
 
 Each directory contains the source code and topic report written in Polish.
