@@ -2,8 +2,7 @@
 
 ## Peripheral Devices Labs
 
-Explore the results of laboratories focused on various peripheral devices,
-each program has menu which will guide you and make the experience pleasant.
+Explore the results of laboratories focused on various peripheral devices, each program has a menu which will guide you and make the experience pleasant.
 
 ## Lab topics:
 
@@ -37,7 +36,13 @@ Sound card (Python):
 * Record audio through a microphone and save it as a WAV file with PyAudio.
 * Display WAV file headers, providing details like format, channels, frame rate, and compression type.
 * Utilize Pyglet for advanced audio playback options, supporting various audio drivers.
-  
+
+### Flatbed Scanner
+Flatbed Scanner (Python):
+* Scan documents or images using a WIA-compatible scanner.
+* Allow users to set parameters such as resolution, scan mode, rotation angle, and contrast.
+* Display the scanned image and save it to a specified file path.
+
 ## How to use:
 
 Each directory contains the source code and topic report written in Polish.
